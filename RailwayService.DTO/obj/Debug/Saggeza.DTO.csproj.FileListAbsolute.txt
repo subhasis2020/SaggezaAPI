@@ -1,0 +1,7 @@
+C:\Users\subhasis\source\repos\WebAPI\DotnetFramework\Saggeza.DTO\bin\Debug\Saggeza.DTO.dll
+C:\Users\subhasis\source\repos\WebAPI\DotnetFramework\Saggeza.DTO\bin\Debug\Saggeza.DTO.pdb
+C:\Users\subhasis\source\repos\WebAPI\DotnetFramework\Saggeza.DTO\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\subhasis\source\repos\WebAPI\DotnetFramework\Saggeza.DTO\obj\Debug\Saggeza.DTO.csproj.CoreCompileInputs.cache
+C:\Users\subhasis\source\repos\WebAPI\DotnetFramework\Saggeza.DTO\obj\Debug\Saggeza.DTO.csproj.CopyComplete
+C:\Users\subhasis\source\repos\WebAPI\DotnetFramework\Saggeza.DTO\obj\Debug\Saggeza.DTO.dll
+C:\Users\subhasis\source\repos\WebAPI\DotnetFramework\Saggeza.DTO\obj\Debug\Saggeza.DTO.pdb

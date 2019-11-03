@@ -1,0 +1,5 @@
+C:\Users\subhasis\source\repos\WebAPI\DotnetFramework\Saggeza.Service\bin\Debug\Saggeza.Service.dll
+C:\Users\subhasis\source\repos\WebAPI\DotnetFramework\Saggeza.Service\bin\Debug\Saggeza.Service.pdb
+C:\Users\subhasis\source\repos\WebAPI\DotnetFramework\Saggeza.Service\obj\Debug\Saggeza.Service.csproj.CoreCompileInputs.cache
+C:\Users\subhasis\source\repos\WebAPI\DotnetFramework\Saggeza.Service\obj\Debug\Saggeza.Service.dll
+C:\Users\subhasis\source\repos\WebAPI\DotnetFramework\Saggeza.Service\obj\Debug\Saggeza.Service.pdb

@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Saggeza</name>
+    </assembly>
+    <members>
+        <member name="T:RailwayService.Helper.HandleException">
+            <summary>
+            Handle Exception
+            </summary>
+        </member>
+        <member name="M:RailwayService.Helper.HandleException.OnException(System.Web.Http.Filters.HttpActionExecutedContext)">
+            <summary>
+            Error Handler for service
+            </summary>
+            <param name="actionExecutedContext"></param>
+        </member>
+        <member name="T:RailwayService.Controllers.StationNameController">
+            <summary>
+            This Controller is used for station name search
+            </summary>
+        </member>
+        <member name="M:RailwayService.Controllers.StationNameController.#ctor">
+            <summary>
+            Resolve Dependency in Constructor using Unity Container
+            </summary>
+        </member>
+        <member name="M:RailwayService.Controllers.StationNameController.GetStationNames(System.String)">
+            <summary>
+            This method is used to search Station Names as per user search criteria
+            </summary>
+            <param name="SearchCriteria"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
